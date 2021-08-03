@@ -1,0 +1,18 @@
+{
+  "segments": [
+    "newline",
+    "time",
+    "virtual_env",
+    "ssh",
+    "cwd",
+    "git",
+    "git_stash",
+    "hg",
+    "jobs",
+    "exit_code",
+    "newline",
+    "/home/windows/.config/powerline-shell/segments/logo.py"
+  ],
+  "mode": "flat",
+  "theme": "/home/windows/.config/powerline-shell/themes/gruvbox.py"
+}
